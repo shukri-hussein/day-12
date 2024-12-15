@@ -1,0 +1,44 @@
+body{
+    background-color: orange;
+     display: flex;
+    justify-content: center; 
+}
+
+
+.Register{
+    background-color: white;
+    width: 600px;
+    height: 70vh;
+    padding: 20px;
+    border: 20px;
+    border-radius: 20px;
+}
+.Register h1{
+    text-align: center;
+}
+.Register  p{
+    text-align: center;
+    color: gray;
+    margin-top: -10px;
+}
+
+
+.container{
+    display: flex;
+}
+/* 
+
+textarea{
+    
+        width: 750px;
+        height: 300px;
+        border-radius: 15px;
+        border: none;
+        outline-color: orange;
+        background-color: rgb(225, 212,212);
+        box-shadow: 4px 4px 10px black;
+        font-size: 1.3em;
+        padding-left: 10px;
+        padding-top: 10px;
+    
+} */
